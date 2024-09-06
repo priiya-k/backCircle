@@ -7,8 +7,8 @@
 The Intergalactic Trade Network BE Circlepe is designed to support a sophisticated interplanetary trade network, managing trade transactions, space cargo logistics, and inventory at various space stations across the galaxy. Engineered for high throughput and real-time data processing, this system ensures efficient and seamless trading operations on a galactic scale.
 
 # Come Let's Visualize:
+![Screenshot 2024-09-02 235645](https://github.com/user-attachments/assets/91960e3d-8e2b-470c-ac3a-6040fd499cd5)
 
-![Screenshot 2024-09-02 235645](https://github.com/user-attachments/assets/b470c433-8a8a-4ec5-9b0e-4fe3e36fa11b)
 
 
 🚀 Key Features ->
